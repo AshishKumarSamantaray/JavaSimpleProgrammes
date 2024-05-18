@@ -13,6 +13,7 @@ public class Q3 {
 		System.out.println("Gross Salary is "+total);
 		
 		System.out.println("Soham Ghosh");
+		System.out.println("Soham Ghosh 2.0");
 		
 		
 		
