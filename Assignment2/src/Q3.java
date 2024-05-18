@@ -12,7 +12,7 @@ public class Q3 {
 		System.out.println("HRA is "+hra);
 		System.out.println("Gross Salary is "+total);
 		
-		
+		System.out.println("Soham Ghosh");
 		
 		
 		
